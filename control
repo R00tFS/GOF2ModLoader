@@ -1,0 +1,9 @@
+Package: fr.bibifire.gof2modloader
+Name: GOF2ModLoader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Galaxy on Fire 2 mod loader for iOS
+Maintainer: bibi_fire
+Author: bibi_fire
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)

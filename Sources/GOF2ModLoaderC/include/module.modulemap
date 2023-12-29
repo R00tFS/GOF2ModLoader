@@ -1,0 +1,4 @@
+module GOF2ModLoaderC {
+    umbrella "."
+    export *
+}
