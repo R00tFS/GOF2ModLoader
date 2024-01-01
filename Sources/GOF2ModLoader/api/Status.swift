@@ -1,10 +1,11 @@
-
+import GOF2ModLoaderC
 
 
 // Getters 
 
 func getShip() -> Int {
 
+    return Status::getShip();
 }
 
 func getCredits() -> Int {

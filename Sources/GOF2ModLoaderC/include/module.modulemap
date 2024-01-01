@@ -1,4 +1,5 @@
 module GOF2ModLoaderC {
     umbrella "."
+    umbrella "hooks/"
     export *
 }
